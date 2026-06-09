@@ -1,0 +1,43 @@
+<div class="tablon-staff">
+	                          
+	<div class="tablonstaff-1">
+		                <span><em class="icofont-crown"></em> STAFF</span>            
+	</div>
+	                            
+	<div class="tablonstaff-2">
+		                          
+		<div style="background:url(https://images2.imgbox.com/6d/20/FhTCBWot_o.png)" class="staff-00">
+			                                            
+			<div class="staff-in">
+				              <span>NOMBRE</span> <a title="MANDAR MP" href="LINK"><em class="icofont-ui-message"></em></a>          
+			</div>
+			                       
+		</div>
+		                                  
+		<div class="staff-00" style="background:url(https://images2.imgbox.com/3b/b5/OeLPaFPe_o.png)">
+			                            
+			<div class="staff-in">
+				              <span>NOMBRE</span> <a title="MANDAR MP" href="LINK"><em class="icofont-ui-message"></em></a>          
+			</div>
+			                       
+		</div>
+		             
+		<div style="background:url(https://images2.imgbox.com/6d/20/FhTCBWot_o.png)" class="staff-00">
+			                                            
+			<div class="staff-in">
+				              <span>NOMBRE</span> <a title="MANDAR MP" href="LINK"><em class="icofont-ui-message"></em></a>          
+			</div>
+			                       
+		</div>
+		                                  
+		<div class="staff-00" style="background:url(https://images2.imgbox.com/3b/b5/OeLPaFPe_o.png)">
+			                            
+			<div class="staff-in">
+				              <span>NOMBRE</span> <a title="MANDAR MP" href="LINK"><em class="icofont-ui-message"></em></a>          
+			</div>
+			                       
+		</div>
+		                             
+	</div>
+	                         
+</div>
