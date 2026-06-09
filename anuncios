@@ -1,0 +1,51 @@
+<div class="tablon-anuncios">
+	         
+	<div class="t-anuncio">
+		               
+		<div class="tanu-fecha">
+			           <span>01</span>        
+		</div>
+		               
+		<div class="tanu-texto">
+			           Lorem ipsum dolor sit amet consectetur adipiscing elit bibendum, velit tincidunt vivamus congue senectus praesent class dictum vulputate        
+		</div>
+		            
+	</div>
+	          
+	<div class="t-anuncio">
+		               
+		<div class="tanu-fecha">
+			           <span>00</span>mes       
+		</div>
+		               
+		<div class="tanu-texto">
+			           Lorem ipsum dolor sit amet consectetur adipiscing elit bibendum, velit tincidunt vivamus congue senectus praesent class dictum vulputate        
+		</div>
+		            
+	</div>
+	          
+	<div class="t-anuncio">
+		               
+		<div class="tanu-fecha">
+			           <span>00</span>mes       
+		</div>
+		               
+		<div class="tanu-texto">
+			           Lorem ipsum dolor        
+		</div>
+		            
+	</div>
+	          
+	<div class="t-anuncio">
+		               
+		<div class="tanu-fecha">
+			           <span>00</span>mes       
+		</div>
+		               
+		<div class="tanu-texto">
+			           Lorem ipsum dolor sit amet consectetur adipiscing elit bibendum        
+		</div>
+		            
+	</div>
+	       
+</div>
